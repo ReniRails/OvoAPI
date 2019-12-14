@@ -11,7 +11,7 @@ class Ovo
 {
     const OVO_API		= "https://api.ovo.id/";
     const OVO_AWS_API	        = "https://apigw01.aws.ovo.id/";
-    const PUSH 			= "FCM|fAVwP2ZbDQo:APA91bFwZXVlGBF9cJCR0cSctoURkmUx1br9s9rNW6qgGVtkMtMw_dUZqRIK32oTa4SjIcabKIcXocCzOQquVAGsowxv1BU3KA9ZfeHAAsVgSmJTsQBR8fdKLy75y78QJOtKpHIj-0K2";
+    const PUSH 			= "FCM|f4OXYs_ZhuM:APA91bGde-ie2YBhmbALKPq94WjYex8gQDU2NMwJn_w9jYZx0emAFRGKHD2NojY6yh8ykpkcciPQpS0CBma-MxTEjaet-5I3T8u_YFWiKgyWoH7pHk7MXChBCBRwGRjMKIPdi3h0p2z7";
     
     private $id 		= "C7UMRSMFRZ46D9GW9IK7";
 	private $version  	= "2.15.0";
